@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>webprofile</title>
+    <link href="https://benirov.github.io/web_piblii_example/feed.xml" rel="self" />
+    <link href="https://benirov.github.io/web_piblii_example" />
+    <updated>2021-04-01T14:05:23-05:00</updated>
+    <author>
+        <name>Beniro</name>
+    </author>
+    <id>https://benirov.github.io/web_piblii_example</id>
+
+    <entry>
+        <title>Web Publii</title>
+        <author>
+            <name>Beniro</name>
+        </author>
+        <link href="https://benirov.github.io/web_piblii_example/web-publii.html"/>
+        <id>https://benirov.github.io/web_piblii_example/web-publii.html</id>
+
+        <updated>2021-04-01T14:05:23-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "webprofile",
+    "description": "",
+    "home_page_url": "https://benirov.github.io/web_piblii_example",
+    "feed_url": "https://benirov.github.io/web_piblii_example/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Beniro"
+    },
+    "items": [
+        {
+            "id": "https://benirov.github.io/web_piblii_example/web-publii.html",
+            "url": "https://benirov.github.io/web_piblii_example/web-publii.html",
+            "title": "Web Publii",
+            "author": {
+                "name": "Beniro"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-01T14:05:23-05:00",
+            "date_modified": "2021-04-01T14:05:23-05:00"
+        }
+    ]
+}

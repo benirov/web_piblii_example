@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://benirov.github.io/web_piblii_example/sitemap.xml
